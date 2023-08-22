@@ -6,6 +6,7 @@ const App = () => {
       <section className="bg-white bg-opacity-20 backdrop-blur-lg drop-shadow-lg rounded w-full md:max-w-[500px] p-4 flex flex-col text-center items-center justify-center md:px-10 lg:p-24 h-full lg:h-[500px] text-zinc-700">
         <h1>Weather Forecast</h1>
         <p>Weather Forecastsdvsdvbsdvsdvsv</p>
+        <p>Weather Forecastsdvsdvbsdvsdvsv</p>
       </section>
     </main>
   )
